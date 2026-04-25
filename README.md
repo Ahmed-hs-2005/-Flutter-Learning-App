@@ -1,17 +1,63 @@
-# educational_app
+# Flutter Learning App 📚
 
-A new Flutter project.
+## 📌 Overview
+The Flutter Learning App is an educational mobile application designed to help beginners learn Flutter fundamentals in a structured and interactive way. It contains multiple lessons, examples, and UI demonstrations to improve understanding of Flutter development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 20+ structured Flutter lessons
+- Interactive learning modules
+- Custom animations for better UX
+- Responsive UI for different screen sizes
+- Clean navigation between lessons
+- Beginner-friendly explanations
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- State Management (basic/advanced depending on your implementation)
+- Material Design UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home.png)
+
+### 🧩 Widgets Overview
+![Widgets](assets/screenshots/widgets.png)
+
+### 🧭 Navigation
+![Navigation](assets/screenshots/navigation.png)
+
+### 🎬 Animations
+![Animations](assets/screenshots/animations.png)
+
+### ⚙️ State Management
+![State Management](assets/screenshots/state_management.png)
+
+### 📐 Layouts
+![Layouts](assets/screenshots/layouts.png)
+
+---
+## 🚀 How to Run
+1. Clone this repository  
+2. Run:
+
+flutter pub get
+
+3. Run the app:
+
+flutter run
+
+---
+
+## 📌 Purpose
+This project was built for learning Flutter development, UI design, and state management concepts through practical implementation.
+## 🚀 How to Run
+1. Clone this repository  
+2. Run:
